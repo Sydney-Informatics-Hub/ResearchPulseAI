@@ -1,4 +1,4 @@
-# ResearchPulse: AI-Powered Research Impact Assessment & Case Study Generation
+# AI-Powered Research Impact Assessment & Case Study Generation
 
 <img width="1003" alt="Architecture" src="https://media.github.sydney.edu.au/user/291/files/a12249da-0c72-4f9d-a8a5-1e9677a6de18">
 
@@ -6,18 +6,14 @@
 
 ResearchPulse automates the Research Impact Assessment Framework (RIAF) by combining artificial intelligence with systematic data analysis of academic publications, web content, and institutional data. We help researchers and funding bodies generate comprehensive use-case studies and research impact assessments.
 
+🎧 **Listen to the ResearchPulse DeepDive Podcast** - How AI is transforming research impact assessment.
 <audio controls>
   <source src="https://media.github.sydney.edu.au/user/292/files/03ffa721-585e-4c1c-9bfa-61302fde7f4b" type="audio/mp4">
   Your browser does not support the audio element.
 </audio>
 
-🎧 [Listen to the ResearchPulse DeepDive Podcast](https://media.github.sydney.edu.au/user/292/files/03ffa721-585e-4c1c-9bfa-61302fde7f4b) - How AI is transforming research impact assessment.
 
 
-<div>
-<video src="https://media.github.sydney.edu.au/user/292/files/03ffa721-585e-4c1c-9bfa-61302fde7f4b" data-canonical-src="https://media.github.sydney.edu.au/user/292/files/03ffa721-585e-4c1c-9bfa-61302fde7f4b" controls="controls" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
-  </video>
-</div>
 
 ## Comprehensive Impact Analysis
 
@@ -154,3 +150,10 @@ Acknowledgments are an important way for us to demonstrate the value we bring to
 If you make use of this software for your research project, please include the following acknowledgment:
 
 “This research was supported by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney."
+
+---
+*Want to learn more? Check out our DeepDive podcast where we explore how ResearchPulse is revolutionising research impact assessment.:*
+<audio controls style="width:100%; max-width:600px;">
+  <source src="https://media.github.sydney.edu.au/user/292/files/03ffa721-585e-4c1c-9bfa-61302fde7f4b" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
