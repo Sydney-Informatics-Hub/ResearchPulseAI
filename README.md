@@ -74,14 +74,8 @@ ResearchPulse employs a Retrieval-Augmented Generation (RAG) pipeline. It retrie
 <details>
 <summary>What are the key features and benefits of using ResearchPulse?</summary>
 
-ResearchPulse offers a range of features including:
-- Automated generation of use case studies
-- Data processing from multiple sources
-- Customisable research indicators
-- Multi-format report generation
-- User-friendly web interface
+ResearchPulse offers a range of features including automated generation of use case studies, data processing from multiple sources, customisable research indicators, multi-format report generation, and a user-friendly web interface. The benefits include a systematic and structured approach to research impact assessment, saving time and resources, and providing evidence-based analysis to support funding decisions.
 
-The benefits include a systematic and structured approach to research impact assessment, saving time and resources, and providing evidence-based analysis to support funding decisions.
 </details>
 
 <details>
@@ -93,14 +87,7 @@ You can access ResearchPulse through a hosted web interface or by installing it 
 <details>
 <summary>What kind of output does ResearchPulse generate?</summary>
 
-ResearchPulse generates a zip file containing:
-- Comprehensive report in Word and Markdown formats
-- Context analysis documentation
-- Source materials used in the analysis
-- Process logs
-- Record of input settings
-
-This provides a complete overview of the research impact assessment.
+ResearchPulse generates a zip file containing a comprehensive report in Word and Markdown formats, context analysis documentation, source materials used in the analysis, process logs, and a record of input settings. This provides a complete overview of the research impact assessment. This provides a complete overview of the research impact assessment.
 </details>
 
 <details>
@@ -112,11 +99,7 @@ Yes, ResearchPulse allows customisation of research indicators and time periods 
 <details>
 <summary>What are the future development plans?</summary>
 
-Future development plans include:
-- Enhanced security features (SSO integration and private cloud deployment)
-- Integration of international health data catalogs
-- Media impact scoring
-- Expansion to other research domains beyond health and medical research
+Future development plans include enhanced security features like SSO integration and private cloud deployment options, integration of international health data catalogs and media impact scoring, and expansion to other research domains beyond health and medical research.
 </details>
 
 <details>
