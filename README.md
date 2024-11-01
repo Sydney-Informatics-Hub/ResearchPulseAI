@@ -152,8 +152,5 @@ If you make use of this software for your research project, please include the f
 “This research was supported by the Sydney Informatics Hub, a Core Research Facility of the University of Sydney."
 
 ---
-*Want to learn more? Check out our DeepDive podcast where we explore how ResearchPulse is revolutionising research impact assessment.:*
-<audio controls style="width:100%; max-width:600px;">
-  <source src="https://media.github.sydney.edu.au/user/292/files/03ffa721-585e-4c1c-9bfa-61302fde7f4b" type="audio/mp4">
-  Your browser does not support the audio element.
-</audio>
+
+*Transform your research impact documentation with ResearchPulse – where AI meets academic excellence.*
