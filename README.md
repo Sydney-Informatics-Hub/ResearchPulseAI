@@ -87,7 +87,7 @@ You can access ResearchPulse through a hosted web interface or by installing it 
 <details>
 <summary>What kind of output does ResearchPulse generate?</summary>
 
-ResearchPulse generates a zip file containing a comprehensive report in Word and Markdown formats, context analysis documentation, source materials used in the analysis, process logs, and a record of input settings. This provides a complete overview of the research impact assessment. This provides a complete overview of the research impact assessment.
+ResearchPulse generates a zip file containing a comprehensive report in Word and Markdown formats, context analysis documentation, source materials used in the analysis, process logs, and a record of input settings. This provides a complete overview of the research impact assessment.
 </details>
 
 <details>
@@ -109,7 +109,7 @@ All development activities and issue reporting are managed through a GitHub repo
 
 <details>
 <summary>How can I get involved or contact the team?</summary>
-We're actively seeking researchers to test and provide feedback on ResearchPulse. If you're interested in becoming a tester or have questions about the platform, please contact us at kirsten.jackson@sydney.edu.au. We particularly welcome feedback from researchers in health and medical fields who regularly prepare impact assessments or funding applications.
+We're actively seeking researchers to test and provide feedback on ResearchPulse. If you're interested in becoming a tester or have questions about the platform, please contact our friendly RIAF program manager Kirsten Jackson at kirsten.jackson@sydney.edu.au. We particularly welcome feedback from researchers in health and medical fields who regularly prepare impact assessments or funding applications. For technical questions or integration options into your system, please contact our main software author Sebastian Haan at sebastian.haan@sydney.edu.au.
 </details>
 
 ## Contributors
