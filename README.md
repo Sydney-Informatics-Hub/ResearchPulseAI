@@ -6,13 +6,11 @@
 
 ResearchPulse automates the Research Impact Assessment Framework (RIAF) by combining artificial intelligence with systematic data analysis of academic publications, web content, and institutional data. We help researchers and funding bodies generate comprehensive use-case studies and research impact assessments.
 
-🎧 **Listen to the ResearchPulse DeepDive Podcast** - How AI is transforming research impact assessment.
+🎧 **Listen to the ResearchPulse DeepDive AI Podcast** - How AI is transforming research impact assessment.
 <audio controls>
   <source src="https://media.github.sydney.edu.au/user/292/files/03ffa721-585e-4c1c-9bfa-61302fde7f4b" type="audio/mp4">
   Your browser does not support the audio element.
 </audio>
-
-
 
 
 ## Comprehensive Impact Analysis
@@ -81,13 +79,13 @@ ResearchPulse offers a range of features including automated generation of use c
 <details>
 <summary>How can I get started with ResearchPulse?</summary>
 
-You can access ResearchPulse through a hosted web interface or by installing it locally. The web app requires a university network connection and login. Local installation requires a Python environment, API keys, and university network access. Detailed instructions for both methods are available in the documentation.
+You can access ResearchPulse through a hosted web interface or by installing it locally. Currently the web app requires a university network connection and login. Local installation requires a Python environment, API keys, and university network access. Detailed instructions for both methods are available in the documentation.
 </details>
 
 <details>
 <summary>What kind of output does ResearchPulse generate?</summary>
 
-ResearchPulse generates a zip file containing a comprehensive report in Word and Markdown formats, context analysis documentation, source materials used in the analysis, process logs, and a record of input settings. This provides a complete overview of the research impact assessment.
+ResearchPulse generates a zip file containing a comprehensive report in Word and Markdown formats, context analysis documentation, source documents used in the analysis, process logs, and a record of input settings. This provides a complete overview of the research impact assessment and promotes transparency in research assessment.
 </details>
 
 <details>
@@ -122,9 +120,9 @@ Main contributors at the Sydney Informatics Hub:
 ## Project Partners
 This project has been developed in collaboration with the Faculty of Medicine and Health at the University of Sydney and NSW Health, in particular:
 
+- Kirsten Jackson
 - Janine Richards
 - Mona Shamshiri
-- Kirsten Jackson
 
 ## Attribution and Acknowledgement
 
