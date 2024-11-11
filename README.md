@@ -85,13 +85,26 @@ You can access ResearchPulse through a hosted web interface or by installing it 
 <details>
 <summary>What kind of output does ResearchPulse generate?</summary>
 
-ResearchPulse generates a zip file containing a comprehensive report in Word and Markdown formats, context analysis documentation, source documents used in the analysis, process logs, and a record of input settings. This provides a complete overview of the research impact assessment and promotes transparency in research assessment.
+ResearchPulse generates a downloadable zip file containing multiple outputs designed to ensure complete documentation and transparency. At its core, you'll receive a detailed research impact report available in both Word and Markdown formats, accompanied by context analysis documentation that details the research environment. The system also preserves individual answers for each assessment question, including both draft and final versions, allowing you to track the development of the assessment.
+To support transparency and verification, the package includes all source documents used in the analysis, along with a structured table of any documents that couldn't be automatically accessed (tracked in missing_documents.xlsx).
+For process validation and reproducibility, the system provides detailed logs tracking all system operations and AI process steps. All documents are exported in accessible formats, and a record of input settings ensures the assessment process can be reviewed or repeated if needed.
 </details>
 
 <details>
-<summary>Can I customize the research impact assessment criteria?</summary>
+<summary>Can I customise the research impact assessment criteria?</summary>
 
-Yes, ResearchPulse allows customisation of research indicators and time periods for assessment. Users can define specific areas of impact and tailor the analysis to align with their research goals and funding requirements.
+Yes, ResearchPulse offers multiple customisation options to ensure your impact assessment aligns with your specific research context. Users can define custom time periods for both research activity and impact measurement, allowing for precise temporal analysis. The system's flexible framework enables you to select and prioritise relevant research indicators, whether you're focusing on academic impact, societal benefits, or economic outcomes.
+You can tailor the assessment criteria to align with your research goals and funding requirements, including specific institutional or grant body frameworks. This customisation extends to language style preferences, helping you generate reports that match your intended audience's expectations. The system also allows you to incorporate additional context through supplementary documentation and custom indicators, ensuring your unique research narrative is accurately captured.
+</details>
+
+
+<details>
+<summary>How does ResearchPulse ensure responsible AI practices and ethical use?</summary>
+ResearchPulse implements several key measures to ensure responsible AI use and ethical data handling. At its core, the system uses Retrieval-Augmented Generation (RAG) to ground all outputs in verifiable sources, ensuring that generated content is consistently backed by evidence. This approach is reinforced by a multi-stage review process that validates the accuracy of all assessments.
+To address potential biases, ResearchPulse integrates multiple diverse data sources and employs intelligent filtering mechanisms. The system maintains a human-in-the-loop review process, allowing researchers to validate and customise assessment criteria based on their specific field and requirements.
+Transparency and accountability are maintained through extensive process documentation and logging. Data sources are clearly attributed, ensuring users can trace any claim to its origin.
+Regarding security and user control, ResearchPulse operates within strict network security restrictions and processes only publicly available research data. Users maintain control over input parameters and can observe how outputs are generated, ensuring transparency throughout the assessment process.
+We continuously evaluate and improve these measures through user feedback and systematic monitoring, ensuring that responsible AI principles remain central to ResearchPulse's development and operation.
 </details>
 
 <details>
