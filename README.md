@@ -12,6 +12,8 @@ ResearchPulse automates the Research Impact Assessment Framework (RIAF) by combi
   Your browser does not support the audio element.
 </audio>
 
+<a href="Reference_checker_app.pdf" class="image fit"><img src="https://github.com/user-attachments/assets/5f979be8-4cb3-4d12-b753-47d32fe52750" alt=""></a>
+
 
 ## Comprehensive Impact Analysis
 
