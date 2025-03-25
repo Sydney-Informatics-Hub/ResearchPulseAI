@@ -130,9 +130,10 @@ This project has been developed in collaboration with the Faculty of Medicine an
 - Janine Richards
 - Mona Shamshiri
 
-## Related Project: AI Reference Check
+## Related Project: AI Semantic Citation Check
 
-See PDF below (click image to donwload) for more info about the AU Reference Checker app.
+The accuracy of citations is crucial for maintaining the integrity of academic and AI-generated content. When citations are inaccurate or wrong, they can mislead readers and spread false information. As a team of researchers from the University of Sydney, we are developing an AI-powered tool capable of efficiently cross-checking and analyzing semantic citation accuracy The Semantic Citation Validation Tool automates citation validation by comparing statements of facts against referenced texts. More information about this project can be found in the PDF below (click image to download).
+
 <a href="Reference_checker_app.pdf" class="image fit"><img src="https://github.com/user-attachments/assets/5f979be8-4cb3-4d12-b753-47d32fe52750" alt=""></a>
 
 ## Attribution and Acknowledgement
