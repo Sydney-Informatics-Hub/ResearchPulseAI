@@ -6,12 +6,6 @@
 
 ResearchPulse automates the Research Impact Assessment Framework (RIAF) by combining artificial intelligence with systematic data analysis of academic publications, web content, and institutional data. We help researchers and funding bodies generate comprehensive use-case studies and research impact assessments.
 
-🎧 **Listen to the ResearchPulse DeepDive AI Podcast** - How AI is transforming research impact assessment.
-<audio controls>
-  <source src="https://media.github.sydney.edu.au/user/292/files/03ffa721-585e-4c1c-9bfa-61302fde7f4b" type="audio/mp4">
-  Your browser does not support the audio element.
-</audio>
-
 ## Comprehensive Impact Analysis
 
 Our intelligent system combines four powerful components:
@@ -125,7 +119,7 @@ We're actively seeking researchers to test and provide feedback on ResearchPulse
 ## Contributors
 
 Main contributors at the Sydney Informatics Hub:
-- Sebastian Haan
+- Sebastian Haan (Lead Developer)
 - Nathanial Butterworth
 - Gordon McDonald
 
