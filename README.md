@@ -1,6 +1,7 @@
 # AI-Powered Research Impact Assessment & Case Study Generation
 
-<img width="1003" alt="Architecture" src="https://media.github.sydney.edu.au/user/291/files/a12249da-0c72-4f9d-a8a5-1e9677a6de18">
+<img width="1003" alt="Architecture" src="https://github.com/user-attachments/assets/ac6e4786-f254-4c84-ac58-0c55cc3faf52">
+
 
 ## Discover ResearchPulse
 
